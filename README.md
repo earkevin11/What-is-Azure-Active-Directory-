@@ -1,5 +1,15 @@
 # What is Azure Active Directory?
-- It is a Azure Identity Management Service IT administators use to manage computers, users, and their access to resources.
+- It is a Azure Identity Management Service that IT administators use to manage computers, users, and their access to resources.
+- AAD is a IdP - Identity Provider for the cloud. Many third parties can leverage Azure AD to allow SSO.
+
+# Authentication Protocols that supported for Azure AD
+- SAML
+- WS-FED
+- Open ID Connect
+
+
+# Authorization Protocols 
+- OAuth 2.0
 
 # What are some features of Azure AD?
 - Ability to create and manager users/groups/roles
